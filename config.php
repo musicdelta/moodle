@@ -19,7 +19,7 @@ $CFG->dboptions = array (
 );
 
 $CFG->wwwroot   = 'http://moodle24.musicdelta.com';
-$CFG->dataroot  = '/app/moodledata';
+$CFG->dataroot  = '/app/www/moodledata/';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
