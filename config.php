@@ -23,7 +23,6 @@ $CFG->dataroot  = '/app/www/moodledata/';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
-
 $CFG->passwordsaltmain = 'iN3I&x7/CO*^%r)5PRkTN?K1@`Yu^j';
 
 require_once(dirname(__FILE__) . '/lib/setup.php');
